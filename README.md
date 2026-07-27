@@ -109,5 +109,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishantbh&theme=transparent&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=ishantbh&theme=transparent&hide_border=true" />
 </p>
