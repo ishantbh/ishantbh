@@ -109,5 +109,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ishantbh&theme=transparent&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+  <!-- <img width="70%" src="https://streak-stats.demolab.com?user=ishantbh&theme=transparent&hide_border=true" /> -->
 </p>
